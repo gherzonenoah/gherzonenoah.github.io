@@ -467,6 +467,10 @@ img.home-signature {
  padding: 2px 0;
 }
 
+.notice span{
+ margin: 0 15px 0 15px;
+}
+
 .more-info{
   font-size: 13px;
   margin: 0 15px 0 15px;
